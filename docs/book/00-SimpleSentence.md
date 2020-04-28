@@ -90,18 +90,13 @@ We made him monitor.
 
 
 
-## 三、句子的成分（词性的问题）
+## 三、句子的成分——谓语
 
 ### 1.谓语的成分
 
 有时态的实义动词或系动词才能充当谓语
 
-```
-Your mother must be very beautiful.
-//ps:情态动词不能做谓语
-```
-
-### 2.一句话中的动词能不能多
+### 2.动词能不能多
 
 一句话中动词绝对不能多，一句话中只能有一个动词的存在，并且充当谓语。
 
@@ -128,7 +123,7 @@ v-ed  被动
 to do 目的
 ```
 
-### 练习
+#### 练习
 
 她穿上外衣，锁上门，离开了家。
 
@@ -149,7 +144,7 @@ Pandas are the rarest members in bear family, mainly lving in the forest of Chin
 YangZi River flowing through diverse ecological systems, keeps the home of a sea of endangered species, irrigating Chinese 1/5 land.
 ```
 
-我爱你，你爱我。
+我爱你，你爱我。 
 
 ```
 I loving you, you love you
@@ -160,5 +155,100 @@ I loving you, you love you
 
 ```
 Winter approaching, spring will be around the corner.
+//独立主格
+```
+
+我是一个老师，我喜欢唱歌。
+
+```
+Being a teacher, I have passion for singing songs.
+//主语一致，省略非谓语动词前的主语，即分词作状语
+//本质上，独立主格和分词作状语是一个东西，知识独立主格是两个不同的主语，不能省略其中之一
+```
+
+### 3.动词能不能少
+
+当一句话需要动词而又没有动词时，永远都加 be 动词，并且 be 动词没有意思。
+
+```
+//情态动词不能做谓语，需要加上 be 动词
+Your mother must be very beautiful.
+//against 反对，但不是动词是介词，故需要加 be 动词补足
+I am against you.
+```
+
+### 谓语的总结
+
+ 一句话中有且只有一个有时态的实义动词或者系动词的存在，并且充当谓语。
+
+------
+
+
+
+## 四、句子的成分——主语
+
+### 1.主语的成分
+
+```
+名词
+代词
+非谓语动词
+从句 = 引导词 + 句子
+```
+
+##### 示例
+
+```
+//形容词不能作为主语
+Handsome and strong are his nature. //×
+//可以使用其名词作为主语
+Handsomeness and strength are his nature. //√
+//也可加 be 动词，使非谓语动词做主语，谓语动词为单数
+Being handsome and strong is his nature. //√
+```
+
+### 2.主语能不能少
+
+主语是绝对不能少的。
+
+而祈使句为了表达语气省略了主语，不是没有主语。
+
+当一句话没有主语时：
+
+①加 it 作为主语：必须与天气、温度和时间有关系。
+
+```
+机舱里很闷
+It feels exceedingly hot in the cabin.
+```
+
+②there be 句型，听到 “有“ 的时候使用。
+
+```
+there be/exist/seem/remain
+
+There exist a host of undergraduates being fascinated with me.
+```
+
+③被动，听到一句话没有主语或者人称代词作主语的时候，都可以考虑写成被动。
+
+```
+必须指出坚持很重要
+Persistence must be pointed out outstandingly crusial.
+越来越多的人认为过度捕捞更严重了
+Overfishing is claimed more than feawful by an increasing amount of professors.
+
+三种情况无被动
+1.动词后有介词，无被动
+2.系动词没有被动
+3.have 表达“有”的意思时，无被动
+```
+
+④人称代词，不到万不得已，最好不要使用
+
+如果有梦想，就应该成功
+
+```
+If there exists a dream, glories are supposed to be achieved.
 ```
 
