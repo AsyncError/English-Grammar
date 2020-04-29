@@ -313,3 +313,50 @@ More and more universty's student kill themselves, we should pay attention to th
 #### 2.长难句
 
 ①首先 找这句话中的谓语动词，从而找到一句话中的主谓宾
+
+②若一句话找到多个谓语动词，就确定主句的谓语动词
+
+#### 练习
+
+这两天心里很不爽。
+
+```
+I feel very upset.
+```
+
+全球在变暖。
+
+```
+It is becoming warm throughout world.
+```
+
+嫉妒本身就一种仰望。
+
+```
+Being jealous is a kind of worship.
+Jealousness is a kind of worship.
+```
+
+有意义就是好好活，好好活就是做有意义的事。
+
+```
+Being meaningful proves to live well, living well seems to do meaningful things.
+```
+
+建议政府采取措施来缓解这个问题。
+
+```
+Authorities should be suggested to take measures (so as to/in order to/to) relieve problem.
+```
+
+毫无疑问，溺爱孩子的问题越来越严重了。
+
+```
+There is little doubt that the issue of spoiling children is becoming increasingly severe.
+```
+
+保护运动员是应该的.
+
+```
+Athletes ought be protected.
+```
