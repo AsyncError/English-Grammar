@@ -18,8 +18,6 @@
 
 ------
 
-
-
 ## 二、英语句子的基本结构
 
 ### 主谓结构
@@ -88,15 +86,15 @@ We made him monitor.
 
 ------
 
+## 三、句子的成分
 
+### 谓语
 
-## 三、句子的成分——谓语
-
-### 1.谓语的成分
+#### 1.谓语的成分
 
 有时态的实义动词或系动词才能充当谓语
 
-### 2.动词能不能多
+#### 2.动词能不能多
 
 一句话中动词绝对不能多，一句话中只能有一个动词的存在，并且充当谓语。
 
@@ -166,7 +164,7 @@ Being a teacher, I have passion for singing songs.
 //本质上，独立主格和分词作状语是一个东西，知识独立主格是两个不同的主语，不能省略其中之一
 ```
 
-### 3.动词能不能少
+#### 3.动词能不能少
 
 当一句话需要动词而又没有动词时，永远都加 be 动词，并且 be 动词没有意思。
 
@@ -177,17 +175,13 @@ Your mother must be very beautiful.
 I am against you.
 ```
 
-### 谓语的总结
+#### 谓语的总结
 
  一句话中有且只有一个有时态的实义动词或者系动词的存在，并且充当谓语。
 
-------
+### 主语
 
-
-
-## 四、句子的成分——主语
-
-### 1.主语的成分
+#### 1.主语的成分
 
 ```
 名词
@@ -207,7 +201,7 @@ Handsomeness and strength are his nature. //√
 Being handsome and strong is his nature. //√
 ```
 
-### 2.主语能不能少
+#### 2.主语能不能少
 
 主语是绝对不能少的。
 
@@ -252,3 +246,70 @@ Overfishing is claimed more than feawful by an increasing amount of professors.
 If there exists a dream, glories are supposed to be achieved.
 ```
 
+### 宾语和表语
+
+#### 1.宾语
+
+```
+名词
+代词
+非谓语动词
+从句
+```
+
+#### 2.表语
+
+```
+名词
+代词
+非谓语动词
+从句
+形容词
+介词短语
+```
+
+#### 练习
+
+我喜欢在重庆
+
+```
+I like being in ChongQing.
+I like to be in ChongQing.
+I like ChongQing. //我喜欢重庆
+//不能直接连接 in ChongQing ，介词短语不能作为宾语
+```
+
+女人都爱美
+
+```
+Ladys love being beautiful. //形容词前加非谓语动词
+Ladys love beauty.
+```
+
+我在舞台上上笑
+
+```
+I smile on the stage. //主谓结构
+```
+
+------
+
+## 四、简单句在写作中的使用
+
+### 简单句的考点分析
+
+#### 1.写作
+
+①所有写不来的长难句，暂时都先写成简单句，一定要保证语法正确
+
+```
+The evidence that an increasing number of undergraduates commit suicide indexed that problem should be cared about.
+——> 
+More and more universty's student kill themselves, we should pay attention to the problem.
+```
+
+②不会的单词换成会写的
+
+#### 2.长难句
+
+①首先 找这句话中的谓语动词，从而找到一句话中的主谓宾
