@@ -200,3 +200,14 @@ At the same time, you came up to me and subsequently you beat my shoulder and to
 所以连词后有的成分，连词前一定有。
 
 连词前面有，而连词后没有的成分便是省略的内容。
+
+#### 练习
+
+```
+Under modern conditions, this requires varying measures of centralized control and (this requires) hence the help of specialized scientists such as economists and operational research experts.
+目前，这需要大量的中央控制的措施，所以（这也需要）诸如经济学家和运筹学家这样的专家的帮助。
+
+The data suggest, for example, that physically attractive individuals are more likely to be treated well by their parents, (more likely to be) sought out as friends, and  (more likely to be) pursued romantically.
+数据表明颜值高的人更容易受到父母宠爱，（更容易）交到朋友，（更容易）受到他人的追求
+```
+
