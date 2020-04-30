@@ -133,14 +133,6 @@ in addition
 
 ### 1.写作分析
 
-只要写作的上下之间有逻辑关系
-
-这个男人很有钱，我想嫁给他。
-
-```
-The man is rich, I decide to marry him.
-```
-
 爱情早已不在了，他还在留恋过去。
 
 ```
