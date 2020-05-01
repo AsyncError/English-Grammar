@@ -31,9 +31,9 @@ not noly...but also...
 #### 副词
 
 ```
-similarly 同样地
-equally 同样地
-likewise 同样地
+similarly 	同样地
+equally 	同样地
+likewise 	同样地
 ```
 
 #### 介词短语
@@ -48,20 +48,20 @@ at the same time 同样地
 #### 连词
 
 ```
-but
-yet 然而
-while 然而
+but 	但是
+yet 	然而
+while 	然而
 whereas 鉴于
 ```
 
 #### 副词
 
 ```
-however 然而
-nevertheless 然而
-conversely 相反地
-unexpectedly 没想到的是
-unfortunately 不幸的是
+however 		然而
+nevertheless 	然而
+conversely 		相反地
+unexpectedly 	没想到的是
+unfortunately 	不幸的是
 ```
 
 #### 介词短语
@@ -98,10 +98,12 @@ so
 #### 副词
 
 ```
+因此
 therefore
 thus
 consequently
 as a result
+hence
 ```
 
 ### 递进关系
@@ -126,7 +128,7 @@ subsequently
 #### 介词短语
 
 ```
-in addition
+in addition 此外
 ```
 
 ## 三、并列句的考点分析
@@ -160,10 +162,10 @@ There remain an army of companies coming form afar, and consequently, I feel mor
 I am claimed changeable like water.
 By contrast, my clarity keeps consisstent.
 ——>
-I am claimed changeable like water, and by contrasy, my clarity keeps consisstent.
+I am claimed changeable like water, and by contrast, my clarity keeps consisstent.
 ```
 
-还记得那天?我没有通过四级考试，独自在雨中哭泣，你走过来，拍拍我的肩膀，告诉我人生没有终点。
+你还记得那天吗?我没有通过四级考试，独自在雨中哭泣，你走过来，拍拍我的肩膀，告诉我人生没有终点。
 
 ```
 Do you still keep that day in mind?
@@ -196,11 +198,11 @@ At the same time, you came up to me and subsequently you beat my shoulder and to
 #### 练习
 
 ```
-Under modern conditions, this requires varying measures of centralized control and (this requires) hence the help of specialized scientists such as economists and operational research experts.
+Under modern conditions, this requires varying measures of centralized control and hence (this requires) the help of specialized scientists such as economists and operational research experts.
 目前，这需要大量的中央控制的措施，所以（这也需要）诸如经济学家和运筹学家这样的专家的帮助。
 
 The data suggest, for example, that physically attractive individuals are more likely to be treated well by their parents, (more likely to be) sought out as friends, and  (more likely to be) pursued romantically.
-数据表明颜值高的人更容易受到父母宠爱，（更容易）交到朋友，（更容易）受到他人的追求。
+数据表明颜值高的人更容易受到父母宠爱，（更容易）交到朋友，（更容易）受到浪漫追求。
 
 There is no agreement whether methodology refers to the concepts peculiar to historical work in general or (methodology refers) to the research technique appropriate to the carious branches of historical inquiry.
 人们对此没有达成一致：方法论指的是一般的历史研究中所特有的概念，还是（方法论指的是）适合于历史研究的各种分支的研究方法。
@@ -210,9 +212,9 @@ Until these issues are resolved, a technology of behavior will continue to be re
 直到问题被解决，行为技术会继续遭到拒绝，并且解决我们的问题的唯一方法很可能也会和行为技术一起被拒绝。
 
 Darwin was convinced that the loss of these tastes for pictures or music was not only a loss of happiness, but might possibly be injurious to the intellect, and more probably (be injurious) to the moral character.
-达尔文认为失去了对画画和音乐的爱好不仅失去了快乐，还可能对智力造成伤害，并且更可能对个人品质也造成伤害。
+达尔文认为失去了对画画和音乐的爱好不仅失去了快乐，还可能对智力造成伤害，并且更可能对道德品质也造成伤害。
 
 As families move away from their stable community, their friends of many years, and their extended family relationships, the informal flow of information is cut off, and with it the confidence (is cut off) that information will be available when needed and will be trustworthy and reliable.
-随着家人搬离他们稳定的社区，（搬离）他们多年的朋友和（搬离）他们的大家庭关系，非正式的信息流(小道消息)就被切断了，并且和非正式的信息流一起，当需要的时候就能得到得这些可信的信息的自信也随着消失了。
+随着家人搬离他们稳定的社区，（搬离）他们多年的朋友和（搬离）他们的大家庭关系，非正式的信息流(小道消息)就被切断了，并且和非正式的信息流一起，当需要的时候就能得到的这些可信的信息的自信(唾手可得准确消息的自信)也随着消失了。
 ```
 
