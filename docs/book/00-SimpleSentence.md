@@ -228,9 +228,9 @@ There exist a host of undergraduates being fascinated with me.
 
 ```
 必须指出坚持很重要
-Persistence must be pointed out outstandingly crusial.
+Persistence must be pointed out outstandingly crucial.
 越来越多的人认为过度捕捞更严重了
-Overfishing is claimed more than feawful by an increasing amount of professors.
+Overfishing is claimed more than fearful by an increasing amount of professors.
 
 三种情况无被动
 1.动词后有介词，无被动
@@ -238,9 +238,9 @@ Overfishing is claimed more than feawful by an increasing amount of professors.
 3.have 表达“有”的意思时，无被动
 ```
 
-④人称代词，不到万不得已，最好不要使用
+④人称代词，不到万不得已，最好不要使用。
 
-如果有梦想，就应该成功
+如果有梦想，就应该成功。
 
 ```
 If there exists a dream, glories are supposed to be achieved.
@@ -270,7 +270,7 @@ If there exists a dream, glories are supposed to be achieved.
 
 #### 练习
 
-我喜欢在重庆
+我喜欢在重庆。
 
 ```
 I like being in ChongQing.
@@ -279,14 +279,14 @@ I like ChongQing. //我喜欢重庆
 //不能直接连接 in ChongQing ，介词短语不能作为宾语
 ```
 
-女人都爱美
+女人都爱美。
 
 ```
 Ladys love being beautiful. //形容词前加非谓语动词
 Ladys love beauty.
 ```
 
-我在舞台上上笑
+我在舞台上上笑。
 
 ```
 I smile on the stage. //主谓结构
@@ -298,21 +298,22 @@ I smile on the stage. //主谓结构
 
 ### 1.写作分析
 
-①所有写不来的长难句，暂时都先写成简单句，一定要保证语法正确
+①所有写不来的长难句，暂时都先写成简单句，一定要保证语法正确。
 
 ```
+越来越多的大学生自杀，这个问题需要我们关注。
 The evidence that an increasing number of undergraduates commit suicide indexed that problem should be cared about.
 ——> 
 More and more universty's student kill themselves, we should pay attention to the problem.
 ```
 
-②不会的单词换成会写的
+②不会的单词换成会写的。
 
 ### 2.长难句分析
 
-①首先 找这句话中的谓语动词，从而找到一句话中的主谓宾
+①首先找这句话中的谓语动词，从而找到一句话中的主谓宾。
 
-②若一句话找到多个谓语动词，就确定主句的谓语动词
+②若一句话找到多个谓语动词，就确定主句的谓语动词。
 
 #### 练习
 
