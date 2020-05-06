@@ -190,13 +190,26 @@ The evidence that flowers in the greenhouse fail to undergo storms indicates tha
 
 除此以外，在分析长难句的时候见到 It... that 一般是主语从句（还可能是强调句型），主语从句从 that 开始到句末结束。
 
-练习
+#### 练习
 
 ```
 That the plates are moving is now beyond dispute.
 板块正在移动是显而易见的
 
 Whether the Government should increase the financing of pure science at the expense of technology or vice versa ofen depends on the issue of which is seen as the driving force.
+政府应该以技术为代价来增加纯科学的资助，还是反过来，经常取决于哪个被看作驱动力。
 
+How well the predictions will be validated by later performance depends upon the amount, reliability, and appropriateness of the information used and (depends) on the skill and wisdom with which it is interpreted.
+以后的行为会多么准确地证实这些预言，取决于所使用的信息的数量，可靠性和合适性，并且（还取决于）解释信息的技巧和智慧。
+
+It is generally agreed that a person of high intellgence is one who can grasp ideas readily, (who can) make distinctions, (who can) reason logically, and make use of verbal and mathematical symbols in solving problems.
+显而易见，一个高智商的人（是一个可以）轻易的理解思想的人，（是一个可以）分辨的人，（是一个可以）逻辑推理的
+
+For example, it has long been known that total sleep deprivation is 100 percent fatal to rats, yet, upon examination of the dead bodies, the animals look completely normal.
+比如说，长期以来众所周知的是，完全的睡眠的剥夺对于老鼠来说是完全致命的，然而，通过检查这些尸体，这些动物看起来很正常。
+
+Furthermore, it is obvious that the strength of a country's economy is directly bound up with the efficiency of its agriculture and industry, and that this in turn rests upon the efforts of scientists and technologists of all kinds.
+此外，显而易见的是，一个国家的经济实力和这个国家的工业和农业的效率有着直接的关系，并且这反过来取决于各类的科学家和技术专家的努力。
 ```
 
+### 如何识别宾语从句
