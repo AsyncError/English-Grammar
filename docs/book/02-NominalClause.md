@@ -213,3 +213,31 @@ Furthermore, it is obvious that the strength of a country's economy is directly 
 ```
 
 ### 如何识别宾语从句
+
+只要实义动词后有个引导词就暂定为宾语从句。
+
+```
+She said (that) she would marry an rich man.
+//只有宾语从句能省略引导词
+//但是正式文体中都不能省略
+
+I wonder if I can pass the National Postgraduate Entrance Examination smoothly.
+我正在思考，我是否能通过国家研究生入门考试。
+//宾语从句中的是否可以写成 if ,但是 whether 在所有从句中都可以用作是否
+
+This alone demonstrates that the television business is not an easy world to survive in. A fact underlined by statistics show that out of eighty European television networks no less than 50% took a loss in 1989.
+这单独地说明了，电视行业不是一个容易生存的世界。一个有数据支撑的事实表明在80个欧洲电视网络中，至少有50%在1989年是亏损的。
+
+He believes that this very difficulty may have had the compensating advantage of forcing him to think long and intently about every sentence, and thus enabling him to detect errors in reasoning and in his own obervations.
+他相信，这个困难可能有补偿性的优势，这个优势促使他长时间和认真地思考每一个句子，因此使他能发现在推理和观察中的错误。
+
+You have all heard it repeated that men of science work by means of induction and deduction, that by the help of these operations, they, in a sort of sense, manage to extract from Nature certain natural laws, and that out of these, by some special skill of their own, they build up their theories.
+你们都听说过这些重复（规律）吧，科学家通过归纳和演绎进行工作，通过这些操作的帮助他们成功地从自然中抽出一些自然法则，在这些自然法则之中，通过一些他们自己的特殊技能，他们建立起了他们自己的理论。
+//it 做形式宾语
+```
+
+### 如何识别表语从句
+
+只要系动词后有从句，暂定为表语从句
+
+### 如何识别同位语从句
