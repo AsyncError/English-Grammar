@@ -240,4 +240,38 @@ You have all heard it repeated that men of science work by means of induction an
 
 只要系动词后有从句，暂定为表语从句
 
+#### 练习
+
+```
+A report consistently brought back by visitors to the US is how friendly, courteous and helpful most Americans were to them.
+去过美国的游客不断地带回一份报告，大部分的美国人对他们是多么地友好、客气和乐于助人。
+
+Galileos's greatest glory was that in 1609 he was the first person to turn the  newly invented telescope on the heavens to prove that the planets revolve around the sun rather than around the Earth.
+伽利略最伟大的成就是，在1609年他是第一个用新发明的望远镜观测天空的人，证明了行星绕着太阳转而不是绕着地球转。
+
+Women are much too preoccupied by family. Once the marriage begins to disintegrate, they are lost. That is where their unhappiness spring from and that is why most divorced mothers regard themselves as victims.
+女人太专注于家庭。一旦婚姻开始解体，她们就迷失了。这是她们不幸的来源，这是为什么离异的母亲们认为自己是受害者的原因。
+```
+
 ### 如何识别同位语从句
+
+只要名词后有引导词，就暂定为同位语从句（更可能是定语从句95%）
+
+#### 练习
+
+```
+Being interested in the relationship of language and thought, Whorf developed the idea that the structure of language determines the structure of habitual thought in a society.
+对语言和思想的关系感兴趣，沃尔夫有了一个想法，语言的结构决定了在一个社会中的惯性思维方式。
+
+A century ago, Freud formulated his revolutionary theory that dreams were the disguised shadows of our unconscious desires and fears.
+一个世纪前，弗洛伊德阐述了他的革命性理论，梦是我们无意识的欲望和恐惧的投影。
+
+But the idea that the journalist must understand the law more profoundly than an ordinary citizen rests on an understanding of the established conventions and special responsibilities of the news media.
+记者必须比普通人更加深刻地懂得法律，这种想法，取决于对（已经建立的）风俗的理解和新闻媒体的特殊责任。
+
+Evidence cameup that specific speech sounds are recognized by babies as ypung as 6 months old.
+六个月大的婴儿能识别具体的说话的声音，这种证据已经出现了。
+
+Concerns were raised that witnesses might be encouraged to exaggerate their strories in court to ensure guilty verdict.
+在法庭上，为了保证有罪的判决，证人可能被会去夸大他们的故事，这种担心出现了。
+```
