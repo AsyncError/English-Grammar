@@ -269,7 +269,6 @@ A century ago, Freud formulated his revolutionary theory that dreams were the di
 But the idea that the journalist must understand the law more profoundly than an ordinary citizen rests on an understanding of the established conventions and special responsibilities of the news media.
 记者必须比普通人更加深刻地懂得法律，这种想法，取决于对（已经建立的）风俗的理解和新闻媒体的特殊责任。
 
-Evidence cameup that specific speech sounds are recognized by babies as ypung as 6 months old.
 六个月大的婴儿能识别具体的说话的声音，这种证据已经出现了。
 
 Concerns were raised that witnesses might be encouraged to exaggerate their strories in court to ensure guilty verdict.
