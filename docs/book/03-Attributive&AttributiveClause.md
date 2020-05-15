@@ -133,3 +133,35 @@ whose
 //人或物的定语从句不缺成分时
 ```
 
+####  练习
+
+```
+夜莺用生命换来的玫瑰花被丢掉了。
+The rose that the nightingale exchanged with its life was discarded. 
+
+房顶是一个圆的建筑物，看起来很漂亮。
+Buildings whose roofs are round look beautiful.
+
+成功属于有梦想的人，这已经被无数个事实所证明了。
+It has been validated by numerous facts that glories belong to those with dreams.
+
+穿自己的鞋子不仅方便而且不用去考虑别人的感受。
+Wearing my own shoes proves not only convenient but also ensures a point that the feelings of others can be ignored. 
+
+问题的关键是谁应该为道德的沦丧负责。
+The point of issue seems who should be responsible for the decline of ethics.
+
+外表看起来很邋遢的他其实内心很高尚。
+He whose appearance looks indecent proves noble in his mind.
+
+那些全力以赴去实现梦想的人，即使没有成功也不会感到遗憾，这是很重要。
+It seems indispensable that those who spare no efforts to realize their dreams never feel pitiful, although glories fail to be achieved.
+
+上课不集中精力，而又希望通过考试的学生，往往发现结果差强人意。
+Students who fail to concentrate in class but wish to pass examinations smoothly tend to find that consequence proves less impressive. 
+```
+
+## 四、定语从句的特殊用法
+
+1.that 引导定语从句时，如果在从句中充当的时宾语，that可以被省略
+
