@@ -11,7 +11,7 @@
 The movie looks terrific.
 ——————————————————————————————
 我欣赏她的母亲。
-I admine his mother.
+I admire his mother.
 ——————————————————————————————
 阿甘是一个男人。
 Gump is a man.
@@ -47,7 +47,7 @@ I enjoy the part that a bird is flying in the sky.
 I like Eason, a well-known singer from HongKong.
 
 我妈，一个典型的家庭主妇，喜欢打麻将
-My mother, a typical housewife, enjoy playing MaJong, a chinese entertainment.
+My mother, a typical housewife, enjoy playing MaJong, a Chinese entertainment.
 
 坚持，一个积极的心态，在每个人的成功中都扮演了关键的角色。
 Persistence, an active mentality, plays a critical role in the glories of all children and adults.
@@ -196,14 +196,14 @@ The evidence that flowers in the greenhouse fail to undergo storms indicates tha
 That the plates are moving is now beyond dispute.
 板块正在移动是显而易见的
 
-Whether the Government should increase the financing of pure science at the expense of technology or vice versa ofen depends on the issue of which is seen as the driving force.
+Whether the Government should increase the financing of pure science at the expense of technology or vice versa often depends on the issue of which is seen as the driving force.
 政府应该以技术为代价来增加纯科学的资助，还是反过来，经常取决于哪个被看作驱动力。
 
 How well the predictions will be validated by later performance depends upon the amount, reliability, and appropriateness of the information used and (depends) on the skill and wisdom with which it is interpreted.
 以后的行为会多么准确地证实这些预言，取决于所使用的信息的数量，可靠性和合适性，并且（还取决于）解释信息的技巧和智慧。
 
 It is generally agreed that a person of high intellgence is one who can grasp ideas readily, (who can) make distinctions, (who can) reason logically, and make use of verbal and mathematical symbols in solving problems.
-显而易见，一个高智商的人（是一个可以）轻易的理解思想的人，（是一个可以）分辨的人，（是一个可以）逻辑推理的
+显而易见，一个高智商的人（是一个可以）轻易的理解思想的人，（是一个可以）分辨的人，（是一个可以）逻辑推理的人，使用语言和数学符号解决问题。
 
 For example, it has long been known that total sleep deprivation is 100 percent fatal to rats, yet, upon examination of the dead bodies, the animals look completely normal.
 比如说，长期以来众所周知的是，完全的睡眠的剥夺对于老鼠来说是完全致命的，然而，通过检查这些尸体，这些动物看起来很正常。
