@@ -161,7 +161,7 @@ Winter approaching, spring will be around the corner.
 ```
 Being a teacher, I have passion for singing songs.
 //主语一致，省略非谓语动词前的主语，即分词作状语
-//本质上，独立主格和分词作状语是一个东西，知识独立主格是两个不同的主语，不能省略其中之一
+//本质上，独立主格和分词作状语是一个东西，只是独立主格是两个不同的主语，不能省略其中之一
 ```
 
 #### 3.动词能不能少
