@@ -133,7 +133,7 @@ whose
 //人或物的定语从句不缺成分时
 ```
 
-####  练习
+##  四、定语从句的练习
 
 ```
 夜莺用生命换来的玫瑰花被丢掉了。
@@ -161,7 +161,134 @@ It seems indispensable that those who spare no efforts to realize their dreams n
 Students who fail to concentrate in class but wish to pass examinations smoothly tend to find that consequence proves less impressive. 
 ```
 
-## 四、定语从句的特殊用法
+## 五、定语从句的特殊用法
 
 1.that 引导定语从句时，如果在从句中充当的时宾语，that可以被省略
 
+``` 
+I enjoy the book (that) my mom bought for me.
+//在分析长难句的时候，如果见到有两个名词或者代词直接放在一起，中间没有被连词或标点符号隔开，通常都是省略了that的定语从句
+
+The potential evolution of today's technology, and its social consequences, is dazzlingly complicated, and it's perhaps best left to science-fiction writers and futurologists to explore the many possibilities (that) we can envisage.
+现代技术的潜在发展及其社会影响是很复杂的，留给科幻小说家和未来学家去探索更多我们能想象到的可能性，这可能是最好的（选择）。
+```
+
+2.区别限制和非限制性定语从句
+
+限制和非限制性定语从句在分析长难句时，非限制性定语从句就相当于插入语可以完全不看。
+
+```
+I love her, who is beautiful. //我爱她，她很美。
+I love her who is beautiful. //我爱美丽的她。
+
+Edison, whose invebtions have over 2,000, is a famous scientist.
+```
+
+3.先行词和引导词之间有介词的情况
+
+人不用 who 只能用 whom，物不用that只能用 which。
+
+```
+He is the man who/whom we should learn from.
+He is the man from whom we should learn.
+
+I will never forget the day when I met you.
+I will never forget the day on which I met you.
+```
+
+4.区别 the same ... as; the same ... that 引导的定语从句
+
+```
+She is the same girl as I love. //她像我爱的那个女孩
+She is the same girl that I love. //她是我爱的那个女孩
+```
+
+5.as 和 which 引导的非限制性定语从句
+
+which 引导的非限制性定语从句可以修饰前面整个句子，as 也可以。
+
+但是 which 只能放在主句的后面，而 as 可前可后。
+
+```
+他喜欢和年轻女人说话，这驱使我发疯了。
+He enjoys talking with young ladies, which/as drives me mad.
+As drives me mad, He enjoys talking with young ladies.
+//which指的是前面的整句话
+```
+
+6.定语从句中定语从句 which 和 that 的区别。
+
+## 六、区分定语从句和同位语从句
+
+```
+I have a dream that sounds funny. //定语从句
+I have a dream that I will become a rich lady. //同位语从句
+```
+
+1.看从句本身的意思，定语从句是对名词的修饰，同位语从句是对名词的解释
+
+2.看引导词 that 是否在句中充当成分，在定语从句中 that 做代词，在同位语从句中做引导词不充当成分
+
+3.定语从句的先行词可以是所有的名词，同位语的先行词只能是抽象名词。
+
+4.同位语从句的引导词通常是 that，而定语从句有八个引导词
+
+## 七、定语从句的至难点
+
+### 1.寻找先行词
+
+定语从句的先行词就是他前面最近的那个名词。
+
+```
+The words used by the speaker may stir up unfavorable reactions in the listener which interfere with his comprehension, hence, the transmission-reception system breaks down.
+说话者使用的语言可能会激起听者不好的反应，阻碍听者的理解，因此，传输-接受系统就中断了。
+```
+
+定语从句的先行词是他前面的几个并列的名词
+
+```
+For workers it can mean an end to the security, benefits and sense of importance that came from being a loyal employee.
+对于工人来说，作为一名忠诚的员工，这可能意味着安全、福利和责任感的结束，
+```
+
+定语从句的先行词是他前面的一个从句
+
+```
+The Greek assumed that the structure of language had some connection with the process of thought, which took root in Europe long before people realized how diverse language could be.
+希腊人认为语言的结构和思维过程有关系，这已经在欧洲扎根了，在人们意识到语言有多样性之前很久。
+```
+
+定语从句的先行词是他前面的一个句子 
+
+```
+My husband enjoys talking with other young ladies, which really gets me go mad.
+我的丈夫喜欢和其他年轻的女士交流，这真的快让我发疯了。
+```
+
+定语从句的引导词和先行词被隔开了
+
+```
+As a linguist, he acknowledges that all varieties of human language, including non-standard ones like Black English, can be powerfully expressive-there exists no language or dialect in the world that cannot convey complex idea.
+作为一个语言学家，他认为各种各样的人类语言，包括非标准的那些比如黑人英语，都可以强力地表达，没有语言或者方言在这个世界上是不能传达复杂的思想的。
+```
+
+## 八、定语从句考点分析——写作
+
+1.只要在作文中见到名词都可以有意识的加上一个定语的成分来把句子拉长。
+
+```
+宠物能够减少孤单。
+Pets can reduce loneliness.
+->
+Lovely pets can reduce loneliness.
+->
+Pets which look cute as well as healthy can reduce loneliness.
+->
+Pets which look cute as well as healthy can reduce loneliness of senior citizens.
+->
+Pets which look cute as well as healthy can reduce loneliness of senior citizens without any descendants.
+->
+Pets which look cute as well as healthy can reduce loneliness of senior citizens without any descendants who can take care of them.
+```
+
+2.
