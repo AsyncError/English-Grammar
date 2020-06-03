@@ -1,56 +1,56 @@
 # 定语和定语从句
 
-## 一、什么是定语及定于的成分
+## No.1 定语的组成
 
-### 1.什么是定语？
+### 1.1 什么是定语？
 
 只要听到「XXX的 + 名词」，「XXX的」就是修饰这个名词的定语成分。 
 
-### 2.定语的成分
+### 1.2 定语的成分
 
 ```
 The innocent nightingale died.
 ```
 
-#### 1）形容词作定语
+1.形容词作定语
 
 ```
 The nightingale brave and innocent died.
 ```
 
-####  2）名词「短语」作定语
+2.名词「短语」作定语
 
 ```
 The singing of the nightingale can made make the rose bloom.
 ```
 
-#### 3）介词短语作定语
+3.介词短语作定语
 
 ```
 The nightingale out of the window heard the sighs of the youngster.
 ```
 
-#### 4）非谓语动词作定语
+4.非谓语动词作定语
 
 ```
 The singing nightingale lost its life.
 ```
 
-#### 5）从句作定语
+5.从句作定语
 
 ```
 
 ```
 
-## 二、定语的位置
+## No.2 定语的位置
 
-## 前小后大
+## 2.1 前小后大
 
 当一个单词修饰名词时，通常放在名词前。
 
 当多个单词修饰名词时，通常放在名词后。
 
-### 练习
+### 2.1.1 练习
 
 ```
 这是一个关于夜莺和玫瑰的故事。
@@ -70,15 +70,15 @@ I hava something important to tell you.
 //当形容词修饰不定代词的时候，即使只有一个单词，也通常放在其后
 ```
 
-## 三、定语从句
+## No.3定语从句
 
-### 1.定语从句的构成
+### 3.1 定语从句的构成
 
 ```
 名词+引导词+句子（从句）
 ```
 
-### 2.定语从句的引导词
+### 3.2 定语从句的引导词
 
 定语从句的引导词是按照引导词的种类进行分类
 
@@ -90,7 +90,7 @@ I hava something important to tell you.
 原因：that which why
 ```
 
-#### 谁决定引导词的用法
+#### 3.2.1 谁决定引导词的用法
 
 定语从句中 that 一般等于 which
 
@@ -98,19 +98,17 @@ that是关系代词，从句不缺成分时不用 that
 
 先行词和引导词在从句中能够充当的成分共同决定了引导词的用法。
 
-#### 示例
+#### 3.2.2 示例
 
 ```
 I will never forget the day when I met you.
-
 I will never forget the day that we spent.
 
 You had better have some reason why you are late.
-
 You had better have some reason that sounds perfect.
 ```
 
-#### 定语从句引导词的分类新标准
+### 3.3 引导词的分类新标准
 
 引导词可以按照引导词本身的词性分类
 
@@ -133,7 +131,7 @@ whose
 //人或物的定语从句不缺成分时
 ```
 
-##  四、定语从句的练习
+##  No.4 定语从句的练习
 
 ```
 夜莺用生命换来的玫瑰花被丢掉了。
@@ -161,7 +159,7 @@ It seems indispensable that those who spare no efforts to realize their dreams n
 Students who fail to concentrate in class but wish to pass examinations smoothly tend to find that consequence proves less impressive. 
 ```
 
-## 五、定语从句的特殊用法
+## No.5 定语从句的特殊用法
 
 1.that 引导定语从句时，如果在从句中充当的时宾语，that可以被省略
 
@@ -218,7 +216,7 @@ As drives me mad, He enjoys talking with young ladies.
 
 6.定语从句中定语从句 which 和 that 的区别。
 
-## 六、区分定语从句和同位语从句
+## No.6 区分定语从句和同位语从句
 
 ```
 I have a dream that sounds funny. //定语从句
@@ -233,48 +231,50 @@ I have a dream that I will become a rich lady. //同位语从句
 
 4.同位语从句的引导词通常是 that，而定语从句有八个引导词
 
-## 七、定语从句的至难点
+## No.7 定语从句的至难点
 
-### 1.寻找先行词
+### 7.1 寻找先行词
 
-定语从句的先行词就是他前面最近的那个名词。
+1.定语从句的先行词就是他前面最近的那个名词。
 
 ```
 The words used by the speaker may stir up unfavorable reactions in the listener which interfere with his comprehension, hence, the transmission-reception system breaks down.
 说话者使用的语言可能会激起听者不好的反应，阻碍听者的理解，因此，传输-接受系统就中断了。
 ```
 
-定语从句的先行词是他前面的几个并列的名词
+2.定语从句的先行词是他前面的几个并列的名词
 
 ```
 For workers it can mean an end to the security, benefits and sense of importance that came from being a loyal employee.
 对于工人来说，作为一名忠诚的员工，这可能意味着安全、福利和责任感的结束，
 ```
 
-定语从句的先行词是他前面的一个从句
+3.定语从句的先行词是他前面的一个从句
 
 ```
 The Greek assumed that the structure of language had some connection with the process of thought, which took root in Europe long before people realized how diverse language could be.
 希腊人认为语言的结构和思维过程有关系，这已经在欧洲扎根了，在人们意识到语言有多样性之前很久。
 ```
 
-定语从句的先行词是他前面的一个句子 
+4.定语从句的先行词是他前面的一个句子 
 
 ```
 My husband enjoys talking with other young ladies, which really gets me go mad.
 我的丈夫喜欢和其他年轻的女士交流，这真的快让我发疯了。
 ```
 
-定语从句的引导词和先行词被隔开了
+5.定语从句的引导词和先行词被隔开了
 
 ```
 As a linguist, he acknowledges that all varieties of human language, including non-standard ones like Black English, can be powerfully expressive-there exists no language or dialect in the world that cannot convey complex idea.
 作为一个语言学家，他认为各种各样的人类语言，包括非标准的那些比如黑人英语，都可以强力地表达，没有语言或者方言在这个世界上是不能传达复杂的思想的。
 ```
 
-## 八、定语从句考点分析——写作
+## No.8 定语从句考点分析
 
-1.只要在作文中见到名词都可以有意识的加上一个定语的成分来把句子拉长。
+### 8.1 写作
+
+只要在作文中见到名词都可以有意识的加上一个定语的成分来把句子拉长。
 
 ```
 宠物能够减少孤单。
@@ -289,6 +289,80 @@ Pets which look cute as well as healthy can reduce loneliness of senior citizens
 Pets which look cute as well as healthy can reduce loneliness of senior citizens without any descendants.
 ->
 Pets which look cute as well as healthy can reduce loneliness of senior citizens without any descendants who can take care of them.
+
+读书能增长知识
+Reading books can add knowledge.
+->
+Reading books which keep beneficial to our physical and mental health can add knowledge of all children and adults.
+
+万能句式  
+...which/who look...as well as...
+n. such as...
 ```
 
-2.
+#### 8.1.1英汉差异对比
+
+1.汉语多主动英语多被动
+
+```
+在过去的几十年里，各种措施被政府采取以预防灾害。
+In the past decades, a variety of actions were adopted by the authorities to prevent disasters.
+```
+
+2.汉语多短句英语多长句
+
+```
+乌镇是浙江的一个水镇，它位于京杭大运河旁。
+WuZhen is a water town in ZheJiang province.
+It locates near th river from BeiJing to HangZhou.
+->非谓语动词
+WuZhen is a water town in ZheJiang province, locating near th river from BeiJing to HangZhou.
+->并列句
+WuZhen is a water town in ZheJiang province, and locates near th river from BeiJing to HangZhou.
+->从句
+WuZhen which locates near th river from BeiJing to HangZhou is a water town in ZheJiang province. 
+
+我昨天去踢足球，遇到一个女人，她儿子正在跑步
+I played football yesterday
+I came across a lady on the playground
+Her son was runing.
+->从句
+When I played football yesterday, I came across a lady on the playground whose son was runing .
+->非谓语动词
+Playing football yesterday, I came across a lady on the playground whose son was runing.
+
+
+人们会在门上贴上春联，春联的主题有健康，发财和好运.
+Doors will be sticked by couplets topic whose are involved in health, wealth and good luck.
+```
+
+### 8.2 长难句
+
+找定语的关键是找名词，只要名词之后有结构，且不是动词，就暂定其为修饰该名词的定语成分（也可能是状语）。
+
+定语从名词后开始，到主句的谓语动词结束。
+
+如果名词在主句的谓语动词之后，定语就从名词后结束，通常到句末结束。
+
+
+
+一个大定语中通常有很多小定语。
+
+```
+Creating a "European identity" that respects the different cultures and traditions which go to make up the connecting fabric of the Old Continent is no easy task and demands a strategic choice.
+
+Some of these cause are completely reasonable results of social needs, others are reasonable consequences [of particular advances] [in science] [being to some extent self-accelerating].
+一些原因完全是社会需要的合理结果，另一些是，在某种程度上自我加速的科学上的特殊进步的合理的结果。
+```
+
+名词之后可能出现的结构
+
+```
+名词 + 定语
+名词 + 动词
+
+名词 + 状语（暂不考虑）
+名词 + 同位语（与定语无区别）
+名词 + 插入语（和其他区别较大）
+```
+
