@@ -120,5 +120,8 @@ objective 目的，目标，意图，意向，意愿
 
 outlook 远景，前景
 prospect 远景，前景，前程，展望
+
+convey 传达，传递（思想感情），表达，运输，输送
+transport 运输，运送，输送，传播，交通工具
 ```
 
