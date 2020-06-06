@@ -17,6 +17,7 @@ incite 煽动，挑拨，激励，挑唆（故意的怂恿）
 promote 促进，提升，增进，有助于，振兴（有益的帮助）
 back  支持（支撑物一样）
 endorse 赞同，支持，认可，背书，签名，代言（公开支持，认可）
+stir up煽动
 
 ruling 裁决，统治（倾向于中性的对判决的描述）
 verdict 判决书，定案（倾向于已经决定生效的判决）
@@ -101,5 +102,23 @@ promise 许诺，承诺，保证，预示
 
 coast 海岸，海滨
 shore 岸，滨，滨海国家，支撑，用支柱撑住
+
+prediction 预测，预报，预言
+forecastication 预测，预报（天气预报），展望
+envisage 设想 想象，预知，叙利奥
+foresee 预见，预料，未卜先知
+
+outlook 意见
+idea 意见，主意，思想，理念，概念
+thought 思想，思维，意见
+
+outlook 意向
+intent 意向，目的，意图
+purpose 目的，意向
+object 目的
+objective 目的，目标，意图，意向，意愿
+
+outlook 远景，前景
+prospect 远景，前景，前程，展望
 ```
 
