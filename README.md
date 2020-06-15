@@ -1,2 +1,2 @@
 # English Grammar
- Notes on learning English grammar
+English Grammar Study Notes
