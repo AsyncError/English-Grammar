@@ -344,15 +344,26 @@ Doors will be sticked by couplets topic whose are involved in health, wealth and
 
 如果名词在主句的谓语动词之后，定语就从名词后结束，通常到句末结束。
 
-
-
 一个大定语中通常有很多小定语。
 
 ```
 Creating a "European identity" that respects the different cultures and traditions which go to make up the connecting fabric of the Old Continent is no easy task and demands a strategic choice.
+创造一个欧洲身份，这个身份尊重不同的文化和传统，这些文化和传统构成了旧大陆相互联系的纽带。这绝非易事，需要一个战略性的选择。
 
 Some of these cause are completely reasonable results of social needs, others are reasonable consequences [of particular advances] [in science] [being to some extent self-accelerating].
 一些原因完全是社会需要的合理结果，另一些是，在某种程度上自我加速的科学上的特殊进步的合理的结果。
+
+In short, a leader of the new school contends, "the scientific revolution, as we call it, was largely the improvement and invention and use of a series of instruments that expanded the reach of science in innumerable directions."
+简而言之，一个新学派的领导者声称，科学革命很大程度上是扩大了各个领域的科学范围的一系列工具的提高、发明和使用。
+
+Astrophysicists working with ground-based detectors at the South Pole and balloon borne instrument are closing in on such structures, and may report their findings soon. 
+使用南极的陆基探测器和球载仪器一起工作的天体物理学家正在研究这些结构，并且可能很快会报告他们的发现结果。
+
+After six months of arguing and final 16 hours of hot parliamentary debates, Australia's Northern Territory became the first legal authority in the world to allow doctors to take the lives of incurably ill patients who wish to die.
+在争论了六个月和最后的议会的激烈地讨论了16小时后，澳大利亚北部地区，成为世界上第一个合法的政府，这个政府允许医生合法地结束想死的绝症病人的生命。
+
+Whether to use tests, other kinds of information, or both in a particular situation depends, therefore, upon the evidence from experience concerning comparative and validity and upon such factors as cpsts and availability.
+因此，在某一特定情况下，是否使用测试、其他种类的信息或两者兼而有之，取决于从经验中获得的关于比较性和有效性的证据，以及成本和可得性等因素。
 ```
 
 名词之后可能出现的结构
@@ -366,3 +377,10 @@ Some of these cause are completely reasonable results of social needs, others ar
 名词 + 插入语（和其他区别较大）
 ```
 
+
+
+
+
+```
+
+```
