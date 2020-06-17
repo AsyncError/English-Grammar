@@ -124,7 +124,7 @@ who whom that which
 where when why
 ```
 
-3.在从句中修饰离他最近的形容词
+3.在从句中修饰离他最近的名词
 
 ```
 whose
