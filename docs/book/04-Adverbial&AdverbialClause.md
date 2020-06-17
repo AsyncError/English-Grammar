@@ -173,13 +173,12 @@ He had a car accident because of his carelessness.
 
 ### 3.5 目的状语从句
 
-#### 3.5.1引导词
+#### 3.5.1 引导词
 
 ```
 to
 in order to
 so as to
-
 so that (表示目的，通常放在句末)
 in order that
 ```
@@ -225,5 +224,143 @@ even though
 even if
 as
 while (意为虽然尽管时，只能放在句首)
+```
+
+练习
+
+```
+养宠物可以培养孩子的爱心
+Raising Pets can cultivate the loving heart of kinds although
+```
+
+### 3.8 方式状语从句
+
+#### 3.8.1 引导词
+
+```
+从句
+as 
+the way
+as if/though
+
+介词短语
+by
+through
+by means of
+in...way
+manner
+```
+
+#### 3.8.2 例句
+
+```
+她看起来就像冰做的。
+She looks as if she were made of ice.
+她和我说话就像我妈一样。
+She talks with me as if she were my mother.
+```
+
+### 3.9 条件状语从句
+
+#### 3.9.1 引导词
+
+```
+suppose that 如果
+supposing that
+if
+provided that
+as long as
+so long as
+unless 除非
+```
+
+#### 3.9.2 例句
+
+```
+只要有一丝希望，我也不会放弃
+If there seems a ghost of hope, I will never give up.
+```
+
+### 3.10 比较状语从句
+
+#### 3.10.1 引导词
+
+```
+as...as...
+比较结构
+```
+
+#### 3.10.2 例句
+
+```
+你看起来像我一样漂亮
+You are as beautiful as I am beautiful.
+->
+You are as beautiful as I am.
+->
+You are as beautiful as I.
+```
+
+## No.4 考点分析
+
+### 4.1 写作
+
+作文中任何一句话都可以加一个状语从句将句子拉长
+
+```
+I love you.
+->加副词做状语
+I love you deeply
+->加时间状语从句做状语
+Since I met you, I have loved you.
+->加介词短语作时间状语
+I love you for my whole life.
+->加介词短语做地点状语
+I love you in my mind.
+->加原因状语从句做状语
+I love you beacuse you are kind.
+->加让步状语从句作状语
+I love you although you are poor.
+->加介词短语做条件作条件状语从句
+I love you by sending you a flower every day
+```
+
+练习
+
+```
+你可以像猪一样生活，但你永远不会像猪一样快乐。
+One can live as if he were a pig conversely, he can never be as delight as a pig.
+```
+
+### 4.2 长难句
+
+能够快速地识别句子当中的状语成分，并通顺 地翻译出来。
+
+只要在句子中见到副词、比较、条件、结果、原因、让步、目的、方式、伴随(with)一定是状语。
+
+如果见到名词+时间/地点，就需要区别是状语还是定语。
+
+如果无法确定是状语还是定语，定语优先。只有翻译为定语时意思不通顺就翻译为状语
+
+```
+I love a girl in ZheJiang University.
+我爱上了一个浙江大学的女生。
+```
+
+练习
+
+```
+Social science is that branch of intellectual传统上，在这种情况下，法律学习被视为律师的特殊专利，而不是一个受教育者知识储备的必要组成部分。 to enquire which seeks to study humans and their endeavors in the same reasoned, orderly, systematic, and manner that natural scientists use for the study of natural phenomena.
+社会科学是知识探究的那个分支，它力图用自然科学家研究自然现象的那种理性的、有序的、系统的、冷静的方式来研究人类及其事业。
+
+The behavioral sciences have been slow to change partly because the explanatory items often seem to be directly observed and partly because other kinds of explanations have been hard to find.
+行为科学变化（发展）缓慢，部分原因是解释的项（一些解释）似乎常常是直接观察到的，部分原因是其他种类的解释很难找到。
+
+Traditionally, legal learning has been viewed in such situations as the special preserve of lawyers rather than a necessary part of the intellectual equipment of an educated person.
+传统上，在这种情况下，法律学习被视为律师的特殊专利，而不是一个受教育者知识储备的必要组成部分。
+传统上说，在一些机构中法律的学习被视为律师所特有的行为，而不是一个受教育的人的知识储备所必须的一部分。
+
+While it is easy to ignore in our contact with them the effect of our acts upon their disposition, it is not so easy as in dealing with adults
+
 ```
 
