@@ -360,7 +360,7 @@ Traditionally, legal learning has been viewed in such situations as the special 
 传统上，在这种情况下，法律学习被视为律师的特殊专利，而不是一个受教育者知识储备的必要组成部分。
 传统上说，在一些机构中法律的学习被视为律师所特有的行为，而不是一个受教育的人的知识储备所必须的一部分。
 
-While it is easy to ignore in our contact with them the effect of our acts upon their disposition, it is not so easy as in dealing with adults
-
+While it is easy to ignore in our contact with them the effect of our acts upon their disposition, it is not so easy as in dealing with adults.
+虽然在我们和他们（年轻人）接触时，很容易忽略我们的行为对他们情感的影响，但是在和成年人接触的时候并不容易（忽略我们的行为对他们情感的影响）。
 ```
 
